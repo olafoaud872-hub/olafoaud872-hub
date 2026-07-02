@@ -1,6 +1,8 @@
-Hi there! 👋 I'm Ola Fouad
-​Backend Developer | C# & .NET Specialist
-​I am a passionate Backend Developer dedicated to building secure, scalable, and high-performance applications. I focus on clean code and robust architecture to deliver reliable software solutions.
+Hi there! 👋 
+I'm Ola Fouad
+​Backend Developer | C# & .NET 
+​I am a passionate Backend Developer dedicated to building secure, scalable, and high-performance applications.
+I focus on clean code and robust architecture to deliver reliable software solutions.
 ​🛠 My Tech Stack:
 ​Languages: C#
 ​Frameworks: ASP.NET Core
