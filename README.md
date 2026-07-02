@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**olafoaud872-hub/olafoaud872-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! 👋 I'm Ola Fouad
+​Backend Developer | C# & .NET Specialist
+​I am a passionate Backend Developer dedicated to building secure, scalable, and high-performance applications. I focus on clean code and robust architecture to deliver reliable software solutions.
+​🛠 My Tech Stack:
+​Languages: C#
+​Frameworks: ASP.NET Core
+​Architecture: Layered Architecture
+​Database: SQL Server
+​UI/UX: WinForms with Guna.UI2
+​🚀 What I do:
+​API Development: Building secure RESTful APIs with JWT authentication.
+​Database Design: Expert in SQL Server architecture and data management.
+​Desktop Applications: Developing professional WinForms applications with modern interfaces.
